@@ -1,5 +1,5 @@
 Crowdfunding Platform
-A decentralized crowdfunding platform built using Node.js, Express, MongoDB, and Socket.io. The platform allows users to create campaigns, pledge to campaigns, maintain a transaction ledger, and get real-time updates. It includes JWT-based authentication, scheduled tasks, and encryption for security.
+A decentralized crowdfunding platform built using Node.js, Express, MongoDB. The platform allows users to create campaigns, pledge to campaigns, maintain a transaction ledger, and get real-time updates. It includes JWT-based authentication, scheduled tasks, and encryption for security.
 
 Features
 Campaign Creation: Users can create crowdfunding campaigns with details such as goals and deadlines.
