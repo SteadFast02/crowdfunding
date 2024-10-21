@@ -1,0 +1,56 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Dependency directories
+node_modules/
+
+# Environment variables
+.env
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Optional npm cache directory
+.npm
+
+# Build output directories
+dist/
+build/
+
+# Sockets and PIDs
+*.pid
+*.seed
+*.pid.lock
+
+# IDEs and Editors
+.vscode/
+.idea/
+
+# Testing coverage directories
+coverage/
+
+# Miscellaneous
+*.tgz
+*.gz
+*.zip
+
+# Debugging files
+*.swp
+*.swo
+
+# Optional lock files
+package-lock.json
+yarn.lock
+
+# Render Deployment Cache
+.render/
+
+# Ignore database or secrets files
+/secrets/
+*.pem
+*.key
